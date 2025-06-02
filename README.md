@@ -85,7 +85,9 @@ Heartbeat | summarize LastSeen=max(TimeGenerated) by Computer
 ---
 
 ## 🖼️ Architecture Diagram
-![HA Architecture](architecture/azure-ha-architecture.png)
+![HA Architecture]
+![deepseek_mermaid_20250602_545129](https://github.com/user-attachments/assets/4f4132c5-1cd0-4bf4-b0b6-48bf2a920932)
+
 
 ---
 
